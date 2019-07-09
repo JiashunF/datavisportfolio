@@ -9,3 +9,6 @@ Make cool data visualizations and connect art and data. I also would like to lea
 
 # Portfolio
 Here you can find my data visualizations. Yayyy!
+
+## Data Visualization Critique #1
+<iframe title="Average number of likes per Facebook Post in 2016 UK Leadership Transformation (Copy)" aria-label="Bar Chart" id="datawrapper-chart-fXWrp" src="//datawrapper.dwcdn.net/fXWrp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="291"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
