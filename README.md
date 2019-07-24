@@ -35,4 +35,4 @@ P.S. I tended to eliminate the subtitle, but I feel it is hard to show the numbe
 
 I redesigned the chart into horizontal display, which eliminated the original notes on the right side. And I removed the redundant colors though they are cute. Showing the percentage along with the bars could avoid unnecessary eye travel and make the readers to get the data easier.
 
-[some text here](/dataviz2.md)
+[OECD data visualization #2](/dataviz2.md)
