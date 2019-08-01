@@ -7,11 +7,11 @@ As was predicted at the turn of the century, emoji has been widely used on socia
 #### Structure
 Introduction 
 Emoji frequency on Twitter
-	- All Emoji
-	- Colored Emoji
-	- B&W Emoji
+* All Emoji
+* Colored Emoji
+* B&W Emoji
 User habit with Emoji
-	- The position of Emoji in Twitter posts
+* The position of Emoji in Twitter posts
 The relation of Emoji position and tweets’ emotion (positive/negative/neutral)
 Potential trend of Emoji
 
