@@ -5,15 +5,15 @@
 As was predicted at the turn of the century, emoji has been widely used on social media and mobile communications. This project will focus on user experience with Emoji, and reaction between Emoji and emotion of the post content on Twitter. According to this project, Emoji designers can have better ideas of popular emojis, which is important for their future creation.
 
 #### Structure
-Introduction 
-Emoji frequency on Twitter
+1. Introduction 
+2. Emoji frequency on Twitter
 * All Emoji
 * Colored Emoji
 * B&W Emoji
-User habit with Emoji
+3. User habit with Emoji
 * The position of Emoji in Twitter posts
-The relation of Emoji position and tweets’ emotion (positive/negative/neutral)
-Potential trend of Emoji
+4. The relation of Emoji position and tweets’ emotion (positive/negative/neutral)
+5. Potential trend of Emoji
 
 #### Data
 I found an emoji sentiment data set on Kaggle. The data is in the form of a CSV table, with the Emoji character (encoded in UTF-8), Unicode codepoint, number of occurrences [1..max], position in tweets [0..1], number of occurrences in negative tweets, number of occurrences in neutral tweets, number of occurrences in positive tweets, Unicode name and Unicode block.
