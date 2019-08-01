@@ -16,7 +16,7 @@ As was predicted at the turn of the century, emoji has been widely used on socia
 5. Potential trend of Emoji
 
 #### Data
-I found an emoji sentiment data set on Kaggle. The data is in the form of a CSV table, with the Emoji character (encoded in UTF-8), Unicode codepoint, number of occurrences [1..max], position in tweets [0..1], number of occurrences in negative tweets, number of occurrences in neutral tweets, number of occurrences in positive tweets, Unicode name and Unicode block.
+I found an [emoji sentiment data set](https://www.kaggle.com/thomasseleck/emoji-sentiment-data#Emoji_Sentiment_Data_v1.0.csv) on [Kaggle](https://www.kaggle.com). The data is in the form of a CSV table, with the Emoji character (encoded in UTF-8), Unicode codepoint, number of occurrences [1..max], position in tweets [0..1], number of occurrences in negative tweets, number of occurrences in neutral tweets, number of occurrences in positive tweets, Unicode name and Unicode block.
 
 For this assignment I will focus on figuring out the sentimental side of Emoji. The Unicode name and block data I might ignore.
 
