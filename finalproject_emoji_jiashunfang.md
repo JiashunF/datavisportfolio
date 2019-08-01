@@ -21,9 +21,7 @@ I found an emoji sentiment data set on Kaggle. The data is in the form of a CSV 
 For this assignment I will focus on figuring out the sentimental side of Emoji. The Unicode name and block data I might ignore.
 
 #### Method and Medium
-I stated my project with choosing a topic I am interested in. Then I searched sources from McKinley website since they have great data for Artificial Intelligence and future workforce. I would also like to get data from Forbes, they recently opened up a section for the topic about artificial intelligence. I will be googling “Artificial Intelligence,” “AI,” “Workforce,” some keywords like that, to get random articles. Hope I could get awesome data resource from that. Sometimes I did not find useful information from an article, but the links and sources in it point me out a new direction. 
-Shorthand might be the tool for me to build up my story broad. I have not started to search other useful tools yet, I will keep an eye on to find out if I could get a cooler tool.
-I will be focusing on the data part in each article and report first, to find out if the article/report I read has enough effective data I need. If they have sexy data, then I will read the word part to get the detailed information.
+I started my project with choosing a topic I am interested in, which would be fun. I would like to play wit hthe data first since some of the insightful result needs to be dealt with algorithm. I will build up my story broad with sketch, but the final piece would be done with the digital version. I am thinking about to use Adobe Illutrator or some other tools to make unique graphs.
 
 #### Target Audience
 Target audience might be the Emoji designers from companies who need the current statistics of emoji usage on one of the largest social media platform, Twitter, to create the Emojis matches user habits..
