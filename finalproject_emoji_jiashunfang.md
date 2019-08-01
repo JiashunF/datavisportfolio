@@ -39,9 +39,11 @@ In this digital age, almost everyone is exposed under the social media. It is ea
 
 #### Interview
 I really like this part. The three interviewers I have picked are:
+
 * Student, 23, emoji addicter - almost uses emoji for every single text/post.
 * Colleague, 33, uses emoji for texts but only sticks to a few, eg. heart, thumb up, etc.
 * Parent, 59, seldom use twitter but uses emoji or other emoticons for texts.
+
 This is an important step for designers to test their design. Different people have different aspect of view on my design. More suggestions I could get from this part, more holistic and comprehensive project I could male.
 
 My interview questions are:
