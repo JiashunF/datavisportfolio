@@ -31,7 +31,11 @@ In this digital age, almost everyone is exposed under the social media. It is ea
 
 #### Storyboard
 
-![test1](https://github.com/JiashunF/datavizportfolio/upload/master/SB1.jpg)
+![test1](https://github.com/JiashunF/datavizportfolio/blob/master/SB1.jpg)
+![test2](https://github.com/JiashunF/datavizportfolio/blob/master/SB2.jpg)
+![test3](https://github.com/JiashunF/datavizportfolio/blob/master/SB3.jpg)
+![test4](https://github.com/JiashunF/datavizportfolio/blob/master/SB4.jpg)
+![test5](https://github.com/JiashunF/datavizportfolio/blob/master/SB5.jpg)
 
 #### Interview
 I really like this part. The three interviewers I have picked are:
