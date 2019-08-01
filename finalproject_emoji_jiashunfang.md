@@ -29,6 +29,10 @@ Target audience might be the Emoji designers from companies who need the current
 #### Approach to Identifying Representative Individuals to Interview
 In this digital age, almost everyone is exposed under the social media. It is easy for me to navigate people around me who could be my target interviewers. I will select them by observing if they use any emojis or other emotion icons in their messages, emails and social media posts. I would be interested in select three interviewers with different levels of obsession with the emojis and emotion icons. It would be fun if I can observe and get feed back from interviews from different age groups, genders and culture background.
 
+#### Storyboard
+
+![test1](https://github.com/JiashunF/datavizportfolio/upload/master/SB1.jpg)
+
 #### Interview
 I really like this part. The three interviewers I have picked are:
 Student, 23, emoji addicter - almost uses emoji for every single text/post.
