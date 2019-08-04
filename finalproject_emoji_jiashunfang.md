@@ -33,10 +33,10 @@ In this digital age, almost everyone is exposed under the social media. It is ea
 ## Part 2
 ### Storyboard
 ![test1](https://jiashunf.github.io/datavizportfolio/SB1.jpg)
-![test2](https://github.com/JiashunF/datavizportfolio/SB2.jpg)
-![test3](https://github.com/JiashunF/datavizportfolio/SB3.jpg)
-![test4](https://github.com/JiashunF/datavizportfolio/SB4.jpg)
-![test5](https://github.com/JiashunF/datavizportfolio/SB5.jpg)
+![test2](https://jiashunf.github.io/datavizportfolio/SB2.jpg)
+![test3](https://jiashunf.github.io/datavizportfolio/SB3.jpg)
+![test4](https://jiashunf.github.io/datavizportfolio/SB4.jpg)
+![test5](https://jiashunf.github.io/datavizportfolio/SB5.jpg)
 
 ### User Research
 #### Interview
