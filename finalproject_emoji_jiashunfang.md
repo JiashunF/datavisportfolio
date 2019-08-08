@@ -87,11 +87,14 @@ I also did sketches for my story board. I feel excited to put the abstract ideas
 
 ## Source
 Amadeo, Ron. "Emoji 12.0 Brings Us Waffles, More Diversity, Suggestive "finger Pinch" Glyph." Ars Technica. February 06, 2019. Accessed August 08, 2019. https://arstechnica.com/gadgets/2019/02/emoji-12-0-brings-us-waffles-more-diversity-suggestive-finger-pinch-glyph/.
+
 Ellenbogen, Rachael. "World Emoji Day 2018: Are You Using Your Favorite Emojis Right?" International Business Times. July 17, 2018. Accessed August 08, 2019. https://www.ibtimes.com/world-emoji-day-2018-are-you-using-your-favorite-emojis-right-2700102.
+
 "Emojipedia." Emojipedia - Home of Emoji Meanings. Accessed August 08, 2019. https://emojipedia.org/.
 Grant, Megan. "A Brief History Of Emoji." Bustle. June 12, 2019. Accessed August 08, 2019. https://www.bustle.com/articles/152580-where-did-emoji-come-from-heres-a-brief-history-of-everyones-favorite-pictograms-video.
+
 Heaven, Douglas. "Say It with Feeling: The Complex World of Emojis." New Scientist. Accessed August 08, 2019. https://www.newscientist.com/article/2132937-say-it-with-feeling-the-complex-world-of-emojis/.
-Heaven, Douglas. "Say It with Feeling: The Complex World of Emojis." New Scientist. Accessed August 08, 2019. https://www.newscientist.com/article/2132937-say-it-with-feeling-the-complex-world-of-emojis/.
+
 "How Do You Punctuate Around Emoticons and Emoji? ." How Do You Punctuate Around Emoticons and Emoji? | Mental Floss. June 24, 2015. Accessed August 08, 2019. http://mentalfloss.com/article/65394/how-do-you-punctuate-around-emoticons-and-emoji.
 
 	
