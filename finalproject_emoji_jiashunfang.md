@@ -46,8 +46,6 @@ I really like this part. The three interviewers I have picked are:
 * Colleague, 33, uses emoji for texts but only sticks to a few, eg. heart, thumb up, etc.
 * Parent, 59, seldom use twitter but uses emoji or other emoticons for texts.
 
-This is an important step for designers to test their design. Different people have different aspect of view on my design. More suggestions I could get from this part, more holistic and comprehensive project I could male.
-
 My interview questions are:
 Could you help me to check the design part to see if it is comfortable to read
 What about the data visualization part? Can you get the main idea of the graphs?
@@ -68,6 +66,25 @@ For the chart part, I plan to make some unique charts if I have some good ideas.
 
 ## Part 3
 ### Final Data Story
+
+[Final Project: DISCOVER MIND CODE WITH EMOJI](https://carnegiemellon.shorthandstories.com/discovermindcodewithemoji/index.html)
+
+From the beginning of the project, my intended audience, I was considering them as Emoji designers. When they launch a new series of design, they might need to know the market demand: what kind of Emojis do people like and how they want to use them? However, my mind changed when I moved to the part II of the project. I feel like designers could be part of my targeted readers, but maybe the general public would be more interested in that topic. 
+
+So I made adjustment and redesigned my storyline and redecided the data visualization types, which would match my targeted audience’s taste and expectation. To narrow down the focus, I designed two personas:
+
+Mike, student, 17
+Mike has a girl friend, Katie, who is an Emojiholic and uses Emojis almost in every messages. Mike is a bit confused with the Emojis from Katie sometimes - he cannot tell if Katie is happy or not. He even does not know what kind of emoji is suitable to reply her.
+
+Linda, 67
+Linda is a old lady who has three grandchildren. Her lovely grandchildren always send her some messages with Emoji but Linda feels hard to know what they want to tell her through the Emoji. Sometimes Linda misidentify their emotion.
+
+The specific thing I designed for my audience is the relaxing content + colorful data visualization with emojis. I learnt a lot of cool visualization type in this course, but like some people mentioned in the class, we need to design the specific graphs for our intended audience - do not throw complicated graphs to people who just need bar charts. My intention for this article is introduce some tips and fun knowledge to them so the function of visualizations here is to support my texts.
+
+For this project, I learnt how to collected the data. I have turned down my original project idea of “AI and Future Work” since I failed to find data set available to the public. This is the first time I try to incorporate almost 1000 lines of data in my project. For some visualization, I could not use the raw data so I needed to reorganize them first and did some calculations. 
+
+I also did sketches for my story board. I feel excited to put the abstract ideas on the floor. That helps me to organize my ideas logically. Then, digitalizing my sketches and prototyping. I like the interview assignment. This is an important step for designers to test their design. Different people have different aspect of view on my design. More suggestions I could get from this part, more holistic and comprehensive project I could make.
+
 	
 
 
