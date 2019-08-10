@@ -8,8 +8,8 @@ Hi. I am Jiashun Fang (She/her/hers), Master of Arts Management student at Carne
 Connect art and data. Make cool data visualizations. Select an appropriate visual to display the data. I would also like to learn how to illustrate data in a stunning but logical way with super simple art. 
 
 # Portfolio
-Here you can find my data visualizations. Yayyy!
 
-## [Assignemnt](/assignment.md)
+## [Assignment](/assignment.md)
+## [Final Project](/finalproject_emoji_jiashunfang.md)
 
 
